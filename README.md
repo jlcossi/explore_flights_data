@@ -14,7 +14,7 @@ A detailed presentation of the data is available [here](https://www.transtats.bt
 
 ## Summary of Findings
 
-In the exploration, I found that 1.1% of the flights were cancelled.  
+Starting with the exploration, I found that 1.1% of the flights were cancelled.  
 Chicago was the top number one city, home for more cancellations. 
 US Airways appeared to be the carrier having the most cancelled flight.
 While trying to find another feature related to the cancellation or the 
