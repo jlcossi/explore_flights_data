@@ -32,14 +32,13 @@ destinations versus carriers codes. For all the arrival cities with delays,
 the top three carriers which are the mostly late are American Arilines, 
 AS Airways and Delta Airlines.
 Back to cancelled fligths again, I explored a third feature: the planned 
-flight durations. EA and DL cancelled flights, mostly planned for Atlanta 
-are short and medium-haul flights. AA and AU cancelled flights, mostly planned 
-for Chicago are also short and medium-haul flights. CO, US and NW cancelled 
-flights, mostly planned for Boston are rather short-haul flights.
+flight durations. Eastern Airlines and Delta Airlines cancelled flights, mostly 
+planned for Atlanta are short and medium-haul flights. American Airlines and 
+United Airlines cancelled flights, mostly planned 
+for Chicago are also short and medium-haul flights. 
 The third feature I explored for delayed flights (on arrival) was departure delays. 
-I noticed that, especially for Chicago, we have departure delays for all the 
-carriers. For Denver (as arrival city) we have departure delays mainly for 
-American Airlines and Delta Airlines.
+I noticed that, especially for Chicago and Atlanta, we have departure delays for all the 
+carriers. 
 Indeed there other parameters - meteo for example - which could also give 
 more explanations, but are not covered in this short study.
 
