@@ -67,4 +67,5 @@ cancellations and cities, then cancellations with carriers. Finally I
 observed the influence of the planned flights duration as a third feature, on 
 the cancellations.
 Regarding delayed flights, I started also with the influence of carriers and cities.
-Then I added a third parameter, which is the departure delays.
+Then I added a third parameter, which is the departure delays.   
+The presentation is [here](https://github.com/jlcossi/explore_flights_data/blob/master/slide_deck.ipynb)
